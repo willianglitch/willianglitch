@@ -1,7 +1,7 @@
-### Oi eu sou willianglitch , estudante de programação Front-end no momento más estou sempre crescendo 💀💀💀💀💀💀💀💀
+### hi i´m  williangilitch , front-end programming student at the moment but i´m always growing and adapting to opportunities 💀💀💀💀💀💀💀💀
 
-- 🌱 Estou aprendendo programação pelo curso do programadorBR
-- ⚡ Fun fact: adoro art e trabalhor em equipe bem executado
+- 🌱 i´m learning programmer through the programadorBR course
+- ⚡ Fun fact: i love art and well executed teamwork 
 -->
 ##
 <div align="center">
@@ -31,5 +31,4 @@
    </div>
   
   ![Snake animation](https://github.com/willianglitch/willianglitch/blob/output/github-contribution-grid-snake.svg)
- 
   
