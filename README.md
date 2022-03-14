@@ -1,4 +1,4 @@
-### hi i´m  williangilitch , front-end programming student at the moment but i´m always growing and adapting to opportunities 💀💀💀💀💀💀💀💀
+### i'm williangilitch, junior front-end developer who always look for knowledge in the middle of technology 💀💀💀💀💀💀💀💀
 
 - 🌱 i´m learning programmer through the programadorBR course
 - ⚡ Fun fact: i love art and well executed teamwork 
