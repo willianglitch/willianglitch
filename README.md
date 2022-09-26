@@ -1,5 +1,6 @@
-### i'm williangilitch, junior front-end developer who always look for knowledge in the middle of technology 💀💀💀💀💀💀💀💀
-
+<div align="center"> 
+<img src="https://user-images.githubusercontent.com/90284411/192280046-1cd74fdb-6bb6-4d96-8c2a-2d34b38e2714.png" height="280px" width="1000px"/>
+</div>
 - 🌱 i´m learning programmer through the programadorBR course
 - ⚡ Fun fact: i love art and well executed teamwork 
 -->
