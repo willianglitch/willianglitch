@@ -1,15 +1,28 @@
 <div align="center"> 
-<img src="https://user-images.githubusercontent.com/90284411/192303452-b685f578-820c-46aa-8e02-64d880cf3601.png" height="350px" width="1000px"/>
+  <img src="https://user-images.githubusercontent.com/90284411/192303452-b685f578-820c-46aa-8e02-64d880cf3601.png" height="350px" width="1000px"/>
 </div>
+
 <br>
+
 <h1> Sejá bem vindo ao meu github 👋</h1>
-  <div>
-  <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"  target="_blank">
-  </a>
-  <a href = "mailto:williansilvasoares@gmail,com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/willian-da-silva-soares-509484212" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-     <a href="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" target="_blank"></a>  
-   </div>
+
+<div>
+  <p>
+    Tenho 19 anos, moro em Campos Lindos - TO e sou apaixonado por tecnologia!! Sou iniciante no universo da programação e mesmo tendo dificuldades não desisto!!,      mesmo que eu fique um pouco louco😂😂😂.
+  </p>
+  
+  <div align="center">
+      <img height="250px"  src="https://capricho.abril.com.br/wp-content/uploads/2019/01/gif-menina-dan%C3%A7ando-maisa.gif?w=500&resize=1200,800">
+  </div>
+  
+   <br>
+   
+  <a align="center" href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"  target="_blank">
+  </a><a href = "mailto:williansilvasoares@gmail,com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a><a href="https://www.linkedin.com/in/willian-da-silva-soares-509484212" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" target="_blank">
+  </a>  
+  
+</div>
 <hr>
 <p>
 
