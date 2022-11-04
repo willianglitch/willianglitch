@@ -11,10 +11,6 @@
     Tenho 19 anos, moro em Campos Lindos - TO e sou apaixonado por tecnologia!! Sou iniciante no universo da programação e mesmo tendo dificuldades não desisto!!,      mesmo que eu fique um pouco louco😂😂😂.
   </p>
   
-  <div align="center">
-      <img height="250px"  src="https://capricho.abril.com.br/wp-content/uploads/2019/01/gif-menina-dan%C3%A7ando-maisa.gif?w=500&resize=1200,800">
-  </div>
-  
    <br>
    
   <a align="center" href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"  target="_blank">
