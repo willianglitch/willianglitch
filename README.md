@@ -15,7 +15,7 @@
 </div>
 
 <div>
-  <a href="https://instagram.com/willianglitch?igshid=YmMyMTA2M2Y=" style="padding:4px, background: #000, border-radius:2px, border: 1px solid #899E8F"><img  src="https://cdn-icons-png.flaticon.com/512/1936/1936319.png" alt="icone instragram" height="40" width="40"> Instragram</a>
+  <a href="https://instagram.com/willianglitch?igshid=YmMyMTA2M2Y=" align="center"><img  src="https://cdn-icons-png.flaticon.com/512/1936/1936319.png" alt="icone instragram" height="40" width="40"> Instragram</a>
 </div>
 <hr>
 <div style="display: inline_block"><br>
