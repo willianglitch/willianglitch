@@ -17,7 +17,7 @@
 <div align="center" style="display: flex">
   <a href="https://instagram.com/willianglitch?igshid=YmMyMTA2M2Y=" align="center"><img  src="https://cdn-icons-png.flaticon.com/512/1936/1936319.png" alt="icone instragram" height="30" width="30"> Instragram</a>
 
-  <a href="https://www.linkedin.com/in/willianglitchprogramador/" align="center"><img  src="https://w7.pngwing.com/pngs/78/550/png-transparent-computer-icons-linkedin-ico-white-text-logo-thumbnail.png" alt="icone instragram" height="30" width="30"> linkedin</a>
+  <a href="https://www.linkedin.com/in/willianglitchprogramador/" align="center"><img  src="https://cdn-icons-png.flaticon.com/512/49/49408.png" alt="icone instragram" height="30" width="30"> linkedin</a>
 </div>
 <hr>
 <div style="display: inline_block"><br>
