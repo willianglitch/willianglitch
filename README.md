@@ -1,10 +1,10 @@
+<h1> Sejá bem vindo ao meu github 👋</h1>
+
 <div align="center"> 
   <img src="https://user-images.githubusercontent.com/90284411/204930330-a8288314-ad93-4c24-8916-6b7dc8921eff.png" height="100%" width="100%"/>
 </div>
 
 <br>
-
-<h1> Sejá bem vindo ao meu github 👋</h1>
 
 <div>
   <p>
